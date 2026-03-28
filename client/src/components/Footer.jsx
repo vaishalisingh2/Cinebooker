@@ -6,7 +6,7 @@ const Footer = () => {
         <footer className="px-6 md:px-16 lg:px-36 mt-40 w-full text-gray-300">
             <div className="flex flex-col md:flex-row justify-between w-full gap-10 border-b border-gray-500 pb-14">
                 <div className="md:max-w-96">
-                    <img className="h-11" src={assets.logo} alt="logo" />
+                    <img className="h-11" src={assets.logo.svg} alt="logo" />
                     <p className="mt-6 text-sm">
                         "Book smarter, watch better. CineBooker brings you the easiest way to reserve your seats at your favorite cinemas."
                     </p>
